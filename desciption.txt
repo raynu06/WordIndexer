@@ -1,0 +1,8 @@
+Project: Word Indexer Utility
+Description: Scans text files, extracts words using ASCII rules, and indexes them using three different data structures (Trie, BST, and Python Dictionary) with linked list line queues.
+
+Files:
+- indexer.py: Core classes and implementation for Trie, BST, and Dict.
+- generate_data.py: Automatically generates large datasets for benchmarking.
+- benchmark.py: Measures and plots performance times using Matplotlib.
+- test_input.txt: Sample input file for validation.

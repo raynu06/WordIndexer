@@ -1,0 +1,6 @@
+content = '''Apple, banana; cherry: date.
+#Python123! $code% &data*
+sd sd f f f gg
+word1, word2; word3: word1.
+Apple; cherry! %data*
+'''
